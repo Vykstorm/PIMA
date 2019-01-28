@@ -4,7 +4,7 @@ This repository contains multiple esimators created by different machine learnin
 problem on Pima Indians diabetes.
 Data can be downloaded here: https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
-Python language is used in conjunction with numpy, sklearn, scipy stack
+Python language is used in conjunction with numpy, sklearn, scipy stack and keras (to build neuronal networks)
 
 
 ## Build & Run
